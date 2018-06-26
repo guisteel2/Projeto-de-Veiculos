@@ -5,6 +5,6 @@ OPS:Instalação
 Foi criado uma pasta dentro do xammp1 no meu caso,com o nome de slimapp tambem foi dando um comando pelo cmd  da pasta, como composer requere slim/slim,
 que me deu um autoload e alguns outros recursos.
 
-atraves isso entrei no meu vhost do win32 para adicionar um host especifico para ele , e xampp na pasta xampp1\apache\conf\extra tambem foi configurado um 
+atraves disso entrei no meu vhost do win32 para adicionar um host especifico para ele , e xampp na pasta xampp1\apache\conf\extra tambem foi configurado um 
 extensao do host.
 ```
